@@ -1,6 +1,7 @@
 # Sugarcane-Leaf-Disease-Detection
 
 This project allows the detection of abnormalities that maybe present on the leaves of the Sugarcane plant and classify/recognize the disease accordingly. 
+- This is my FINAL YEAR ENGINEERING GROUP PROJECT 
 
 ### Dataset:
 Link to Dataset: https://www.kaggle.com/datasets/roshitab/sugarcane-leaf-disease-dataset
